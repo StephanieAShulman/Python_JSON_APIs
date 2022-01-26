@@ -23,6 +23,6 @@ The same customer weather preferences were used to identify potential travel des
 ![ALT Text](https://user-images.githubusercontent.com/30667001/151229972-d69219be-7e0c-49da-89d7-e0cf4390a70d.png)
 
 ## Deliverable 3: Create a Travel Itinerary Map
-Narrowing the list to four cities of interest in Australia, a marked travel route was constructed from Hervey Bay to Alice Springs, with a stop in Cairns, aand a visit to Charters Towers, then and back to Hervey Bay. A second map with pop-up information complimented the first and allows for additional travel planning.
+Narrowing the list to four cities of interest in Australia, a marked travel route was constructed from Hervey Bay to Charters Towers, with a stop in Alice Springs, and a visit to Cairns along the way, before heading back to Hervey Bay. A second map with pop-up information complimented the first and allows for additional travel planning.
 
 ![ALT Text](https://user-images.githubusercontent.com/30667001/151230421-6a7430f9-34e4-404e-8bf3-279ee4989ce1.png)
