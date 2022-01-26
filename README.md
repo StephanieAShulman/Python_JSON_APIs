@@ -11,8 +11,6 @@ Working for PlanMyTrip – a travel technology company focused on hotel and lodg
 
 After a brief interlude to demonstrate weather-related scatterplots and regression lines to curious STEM students, Google Maps API was employed to create heat maps specific to the different weather conditions. Through input statements, customer interest in destinations that ranged between 75- and 90-degrees Fahrenheit necessitated construction of a new data frame based on those parameters. Yowza! What a cold snap this year … it’s an unusual 45 degrees in Miami. These customers may have to consider more tropical destinations. Hotel information was imported with Google Places in JSON format and converted to a final data frame. A heat map specific to these locations was created. Markers were added to provide location, weather and hotel information.
 
-![ALT Text](https://user-images.githubusercontent.com/30667001/151229298-db489c84-c592-4ca9-8a01-04529dbad559.png)
-
 ## Deliverable 1: Retrieve Weather Data
 With all this experience, a new set of data were created based on 2,000 randomly chosen values for both latitude and longitde. Work mirrored the earlier effort.  
 
